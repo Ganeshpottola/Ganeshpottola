@@ -7,14 +7,14 @@ Link- https://readme-typing-svg.demolab.com/demo/
 <h1 align="center">👨‍💻 DevOps Engineer</h1>
 
 <p align="center" style="font-size: 100px;">
-   🏅 Certified Kubernetes Administrator
+   🏅 GCP - Associate Cloud Engineer
 </p>
 
 
 ## 💫 About Me:
 
 - 👋 Hi, I'm Ganeshpottola
-- 🎓 Graduated from Indira Institute of Technology & Seinece - JNTU KAKINADA.
+- 🎓 Postgraduate from Malla Reddy Institute Of Management - Maisammaguda.
 - 💼 Currently working at Zelarsoft Pvt Ltd.
 - 🔧 Proficient in Kubernetes, Automation, and CICD Lifecycle.
 - 🌱 Always learning and improving in the DevOps world.
