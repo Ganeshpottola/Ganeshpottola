@@ -76,11 +76,11 @@ Link- https://readme-typing-svg.demolab.com/demo/
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sai8465&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ganeshpottola&show_icons=true)
 
 ## GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sai8465)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ganeshpottola)
 
 
 
